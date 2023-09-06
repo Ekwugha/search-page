@@ -1,0 +1,15 @@
+.background {
+    min-height: 100vh;
+    background-color: #ECECEC;
+}
+
+.btnn {
+    border-radius: 200px;
+    width: 200px;
+    background: rgb(0, 102, 255);
+    border: none;
+}
+
+.div-w {
+    width: "50px";
+}
